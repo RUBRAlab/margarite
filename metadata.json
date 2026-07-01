@@ -1,0 +1,6 @@
+{
+  "name": "Margarité",
+  "description": "Suscripción floral premium en Mendoza. Del campo a tu puerta en 24 horas, sin pasar por Buenos Aires.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
